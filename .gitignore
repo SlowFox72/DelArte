@@ -4,3 +4,4 @@
 
 # NE PAS METTRE EN LIGNE NOS PIZZA SECRETES
 pizza_secretes/
+accès_cuisine/*.secret.txt
