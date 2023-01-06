@@ -1,0 +1,2 @@
+# Température maximum pour notre four
+MAX_TEMPERATURE=200
