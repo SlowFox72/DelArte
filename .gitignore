@@ -1,1 +1,6 @@
+# ignore local ide folders
 ./vs/
+.idea/
+
+# NE PAS METTRE EN LIGNE NOS PIZZA SECRETES
+pizza_secretes/
